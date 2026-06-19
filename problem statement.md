@@ -1,0 +1,2 @@
+This is YOUR Core Java project. Look at your daily life — what frustrates you? What takes longer than it should? What would make your or someone else's day a little easier? Pick a real problem YOU face and build a Java console application to solve it in 7 days. It doesn't need to be perfect. It doesn't need to be complex. It just needs to be YOURS — built with classes, objects, logic, and care. The goal is to experience what it feels like to take an idea from a blank file to a working, useful program.
+
